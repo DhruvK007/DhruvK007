@@ -1,9 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Dhruv Kotadiya
 
 <div align="left">
-  <a href="https://github.com/DhruvK007?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-5+-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  </a>
   <img src="https://img.shields.io/badge/Learning_Journey-Started_2023-0077b6?style=for-the-badge&logo=github-actions&logoColor=white" alt="Journey Started" />
   <img src="https://img.shields.io/badge/Open_to_Collaborate-Welcome!-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Open to Collaborate" />
   <img src="https://komarev.com/ghpvc/?username=DhruvK007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
