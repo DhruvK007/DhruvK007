@@ -102,7 +102,7 @@ Feel free to reach out if you want to discuss tech, collaborate on projects, or 
 <div align="center" style="width: 100%;">
   
 ### ✍️ Quote of the day
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=transparent&animation=default&layout=default&font=default&quoteType=quote-for-the-day)</div>
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=transparent&animation=default&layout=default&font=default&quoteType=random)</div>
 <br />
 
 </div>
