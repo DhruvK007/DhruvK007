@@ -97,14 +97,4 @@ Feel free to reach out if you want to discuss tech, collaborate on projects, or 
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/xcXSW873BwN7)
 
 
-<div align="center" style="width: 100%">
-  
-<div align="center" style="width: 100%;">
-  
-### ✍️ Quote of the day
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=transparent&animation=default&layout=default&font=default&quoteType=random)</div>
-<br />
-
-</div>
-
 ---
