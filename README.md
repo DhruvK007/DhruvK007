@@ -7,16 +7,18 @@
 </div>
 
 ## 💫 About Me
-A passionate full-stack developer from India, currently in my 3rd year of **B.Tech Computer Engineering** at **CHARUSAT** with a CGPA of **9.94/10**. I enjoy building modern web applications with React, Next.js, and TypeScript.
+A passionate full-stack developer from India, currently in my 3rd year of **B.Tech Computer Engineering** at **CHARUSAT** with a CGPA of **9.95/10**. I enjoy building modern web applications with React, Next.js, and TypeScript.
 
 ### 🚀 Featured Projects
+
+- **[Spendwise - Expense Tracker](https://trackwithspendwise.vercel.app/)**: A modern solution for personal finance management. Built with Next.js, this app offers features like AI-generated financial advice, expense tracking, budgeting, group expense splitting, report generation, recurring transaction support and many more. Integrated tools include Tailwind CSS, PostgreSQL, Prisma, and Auth.js.
 
 - **[Case Cobra](https://case-cobra-nextjs.vercel.app/)**: A platform where users can create and buy their own custom phone cases. Built with Next.js, this project showcases my understanding of server-side rendering and dynamic routing. Integrated a payment gateway (Razorpay) to facilitate secure transactions.
 
 ### What I'm Up To
-- 🚀 Currently building [Spendwise - Expense Tracker](https://trackwithspendwise.vercel.app), a modern solution for personal finance management
+- 🚀 Currently enhancing **Spendwise - Expense Tracker** with new features and optimizations and also working on **Studywise**, a collaboration platform for students.
 - 💻 Specializing in **MERN Stack** and **Next.js** development
-- 🌱 Currently expanding my skill set by learning **.NET Core**, **Three.js**, and enhancing my testing expertise in **React** using **Jest** and **React Testing Library (RTL)**.
+- 🌱 Currently enhancing my testing expertise in **React** using **Jest** and **React Testing Library (RTL)**.
 - 🔍 Always eager to learn new technologies and best practices in software development
 
 ### What I Bring to the Table
